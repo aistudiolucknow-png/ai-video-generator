@@ -1,0 +1,6 @@
+{
+  "name": "AI Photo & Video Generator",
+  "description": "AI Studio Lucknow — Mobile-first AI Photo & Video Generator with strict cost controls, Free Mode, bilingual English/Hindi UI, fal.ai MiniMax H3 Max Turbo video, and Gemini image/prompt routes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
